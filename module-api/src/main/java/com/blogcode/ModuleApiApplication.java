@@ -2,9 +2,9 @@ package com.blogcode;
 
 import org.springframework.boot.SpringApplication;
 
-public class ModuleWebApplication {
+public class ModuleApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ModuleWebApplication.class, args);
+        SpringApplication.run(ModuleApiApplication.class, args);
     }
 }
